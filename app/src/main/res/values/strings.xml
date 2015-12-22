@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AndriodToActivitySavaStancesExample</string>
+    <string name="title_activity_secound">SecoundActivity</string>
 </resources>
